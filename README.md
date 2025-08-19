@@ -35,4 +35,3 @@ A 2-layer power distribution PCB designed for lightweight drones. Capable of dis
 
 ---
 
-> 🛑 Disclaimer: This board has been tested with 10A continuous current. Please verify all design tolerances if adapting for higher current applications.
