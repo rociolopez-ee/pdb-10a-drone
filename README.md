@@ -27,9 +27,7 @@ A 2-layer power distribution PCB designed for lightweight drones. Capable of dis
 - `/images/` – Board renderings and layout previews
 
 ## 🖼️ Preview
-
-![Top Layer Render](images/top-render.png)  
-*Top view of the 2-layer power board*
+<img width="470" height="766" alt="Image" src="https://github.com/user-attachments/assets/07ccfbe9-ba34-4261-99d8-78d03dfb41b4" />
 
 ## 👩‍💻 Designed by
 
